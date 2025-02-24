@@ -56,6 +56,14 @@ git clone https://github.com/JDamianCabello/SpindaPainter-3gen.git
 
 Switch between Spanish and English by clicking on the flags in the top right corner.
 
+### 👥 Contributors
+
+- **ShinMugenNoKabe** - [GitHub Profile](https://github.com/ShinMugenNoKabe)
+  - Allow users to manually input text in the PID input
+  - Fixed the Spinda summary showing the wrong abilities
+  - Fixed the nature of the Spinda not being calculated correctly
+  - Added functionality to generate a new PID on page reload, and added a new button to reroll the PID and copy it to the OS clipboard
+
 ### 🤝 Contributions
 
 Contributions are welcome. Please follow these steps:
@@ -140,6 +148,14 @@ git clone https://github.com/JDamianCabello/SpindaPainter-3gen.git
 ### 🌈 Cambio de Idioma
 
 Cambia entre español e inglés haciendo clic en las banderas en la esquina superior derecha.
+
+### 👥 Colaboradores
+
+- **ShinMugenNoKabe** - [Perfil de GitHub](https://github.com/ShinMugenNoKabe)
+  - Permitir a los usuarios introducir texto manualmente en el campo PID
+  - Corregido el resumen de Spinda que mostraba habilidades incorrectas
+  - Corregido el cálculo incorrecto de la naturaleza de Spinda
+  - Añadida funcionalidad para generar un nuevo PID al recargar la página, y añadido un nuevo botón para regenerar el PID y copiarlo al portapapeles del sistema operativo
 
 ### 🤝 Contribuciones
 

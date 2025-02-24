@@ -42,7 +42,6 @@ function generateRandomPid() {
 }
 
 function cleanPid(pid) {
-    console.log(pid);
     // Si el PID está vacío, generamos un PID de 8 ochos (el por defecto para que se ponga encima)
     pid ||= '';
 
